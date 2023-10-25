@@ -19,7 +19,7 @@ Mon objectif est de continuer à approfondir mes compétences dans le domaine de
 
 ## Contact
 
-N'hésitez pas à me contacter pour des collaborations, des questions ou des opportunités professionnelles. Vous pouvez me trouver sur [![Me contacter sur LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/votre-profil-linkedin)
+N'hésitez pas à me contacter pour des collaborations, des questions ou des opportunités professionnelles. Vous pouvez me trouver sur [![Me contacter sur LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/sanctifier-yaw-mensah-63558b242/)
 
 
 ## Projets
