@@ -4,14 +4,29 @@ Salut, je suis un étudiant en informatique passionné par la programmation et l
 
 ## Compétences
 
-- **Langages de Programmation** : C/C++, Python, Java
-- **Web** : HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend** : Node.js, Django
-- **Systèmes d'Exploitation** : Linux, Windows
-- **Sécurité Informatique** : Pentest avec Metasploit, Nmap, Burp Suite, John the Ripper
-- **Bases de Données** : Conception et gestion
-- **Scripts** : Bash, PowerShell
-- **Réseau** : Configuration de services réseau
+<ul>
+  <li>
+    <img align="left" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <strong>Langages de Programmation</strong>
+    <ul>
+      <li>C/C++</li>
+      <li>Python</li>
+      <li>Java</li>
+    </ul>
+  </li>
+  <li>
+    <img align="left" alt="HTML" width="25px" src="lien-image-html" />
+    <strong>Web</strong>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>React</li>
+      <li>Tailwind CSS</li>
+    </ul>
+  </li>
+  <!-- Ajoutez d'autres compétences de la même manière -->
+</ul>
 
 ## Objectifs
 
@@ -19,7 +34,7 @@ Mon objectif est de continuer à approfondir mes compétences dans le domaine de
 
 ## Contact
 
-N'hésitez pas à me contacter pour des collaborations, des questions ou des opportunités professionnelles. Vous pouvez me trouver sur [![Me contacter sur LinkedIn](images/linkedin.png)](https://www.linkedin.com/in/sanctifier-yaw-mensah-63558b242/)
+N'hésitez pas à me contacter pour des collaborations, des questions ou des opportunités professionnelles. Vous pouvez me trouver sur [![Me contacter sur LinkedIn]()](https://www.linkedin.com/in/sanctifier-yaw-mensah-63558b242/)
 
 
 ## Projets
