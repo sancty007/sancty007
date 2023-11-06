@@ -5,8 +5,8 @@
 Salut, je suis un étudiant en informatique passionné par la programmation et la sécurité informatique. Je possède une variété de compétences techniques, allant du développement de logiciels à l'administration système, en passant par la sécurité et la gestion de bases de données. Mon expérience couvre une gamme de langages, de technologies et d'outils.
 
   
-## Langages de Programmation
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">python
+## Langages de Programmation 
+-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> python
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" /> Java
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /> C/C++
 
