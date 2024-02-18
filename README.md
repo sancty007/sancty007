@@ -26,6 +26,7 @@ Salut, je suis un étudiant en informatique passionné par la programmation et l
 - <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="50" /> Tailwind CSS
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /> JavaScript
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />php
+- <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" width="50" />Django
 
 ## Outils et Systèmes
 
