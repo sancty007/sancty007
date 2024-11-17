@@ -67,17 +67,7 @@ Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 N'hésitez pas à explorer mes projets pour en savoir plus sur mes compétences et réalisations.
 
-  
-
-## Licence
-
-  
-
-Ce code est sous licence [nom de la licence] - voir le fichier [LICENSE.md](lien-vers-votre-fichier-de-licence.md) pour plus de détails.
-
-  
-
----
+  ---
 
   
 
