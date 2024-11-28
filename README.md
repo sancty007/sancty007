@@ -1,75 +1,68 @@
-# Présentation <img src="https://cdn-icons-png.flaticon.com/128/158/158420.png" width="50" />
+# Sanctifier Yaw Mensah <img src="https://cdn-icons-png.flaticon.com/128/158/158420.png" width="40" align="center" alt="Profile Icon">
 
-  
+![Profile Views](https://komarev.com/ghpvc/?username=sancty&color=0e75b6&style=flat)
 
-Salut, je suis un étudiant en informatique passionné par la programmation et la sécurité informatique. Je possède une variété de compétences techniques, allant du développement de logiciels à l'administration système, en passant par la sécurité et la gestion de bases de données. Mon expérience couvre une gamme de langages, de technologies et d'outils.
+## À propos de moi 🚀
 
-  
-## Langages de Programmation 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> python
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" /> Java
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" /> C/C++
+Salut ! Je suis un étudiant passionné en informatique, spécialisé dans la programmation et la sécurité informatique. Mon expertise s'étend du développement logiciel à l'administration système, en passant par la sécurité et la gestion de bases de données.
 
-## Bases de Données
+## Compétences techniques 🛠️
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" /> MySQL
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" /> Oracle
+### Langages de programmation
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+</p>
 
+### Bases de données
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+</p>
 
+### Développement Web
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+</p>
 
-## Développement Web
+### Outils et systèmes
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/></a>
+  <a href="https://www.putty.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/putty/putty-icon.svg" alt="putty" width="40" height="40"/></a>
+</p>
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /> HTML5
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" /> CSS3
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" /> Node.js
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" /> React
-- <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="50" /> Tailwind CSS
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" /> JavaScript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />php
-- <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" width="50" />Django
+## Objectifs 🎯
 
-## Outils et Systèmes
+Mon objectif est de continuer à approfondir mes compétences en informatique en :
+- 🔍 Explorant de nouvelles technologies
+- 🤝 Contribuant à des projets open source
+- 📚 Partageant mes connaissances avec la communauté
+- 💼 Recherchant des opportunités professionnelles stimulantes
 
-### Outils de Développement
+## Projets 📂
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" /> Visual Studio Code
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" /> Git
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" /> Linux
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" /> Windows
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="50" /> PuTTY
+*[Ici, vous pouvez ajouter des liens vers vos projets GitHub les plus importants]*
 
-## Visiteurs 
-[![](https://visitcount.itsvg.in/api?id=sancty&label=Profile%20Views%F0%9F%98%8A&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+## Contact 📫
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanctifier-yaw-mensah-63558b242/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://github.com/votre_username" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+  <a href="mailto:votre.email@example.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="email" height="30" width="40" /></a>
+</p>
 
+---
 
-## Objectifs
-
-  
-
-Mon objectif est de continuer à approfondir mes compétences dans le domaine de l'informatique, en explorant de nouvelles technologies, en contribuant à des projets open source et en partageant mes connaissances avec la communauté. Je suis également ouvert à de nouvelles opportunités professionnelles qui me permettront de mettre en pratique mes compétences et d'apprendre davantage.
-
-  
-
-## Contact
-
- 
-N'hésitez pas à me contacter pour des collaborations, des questions ou des opportunités professionnelles. Vous pouvez me trouver sur [![Me contacter sur LinkedIn]()](https://www.linkedin.com/in/sanctifier-yaw-mensah-63558b242/)
-  
-  
-
-## Projets
-
-  
-
-Voici quelques-uns des projets sur lesquels j'ai travaillé :
-
- 
-
-N'hésitez pas à explorer mes projets pour en savoir plus sur mes compétences et réalisations.
-
-  ---
-
-  
-
-Merci de visiter mon profil GitHub ! N'hésitez pas à explorer mes projets et à me contacter si vous avez des questions ou des idées de collaboration.
+### Merci de visiter mon profil ! N'hésitez pas à me contacter pour toute collaboration ou opportunité. 😊
