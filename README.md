@@ -38,7 +38,8 @@ Salut, je suis un étudiant en informatique passionné par la programmation et l
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" /> Windows
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="50" /> PuTTY
 
-          
+## Visiteurs 
+[![](https://visitcount.itsvg.in/api?id=sancty&label=salut&pretty=false)](https://visitcount.itsvg.in)
 
 
 
