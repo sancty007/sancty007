@@ -39,7 +39,7 @@ Salut, je suis un étudiant en informatique passionné par la programmation et l
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" width="50" /> PuTTY
 
 ## Visiteurs 
-[![](https://visitcount.itsvg.in/api?id=sancty&label=salut&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sancty&label=Profile%20Views%F0%9F%98%8A&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 
