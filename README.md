@@ -53,7 +53,7 @@ Mon objectif est de continuer à approfondir mes compétences en informatique en
 
 ## Projets 📂
 
-*[Ici, vous pouvez ajouter des liens vers vos projets GitHub les plus importants]*
+
 
 ## Contact 📫
 
