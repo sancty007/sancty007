@@ -4,7 +4,7 @@
 
 ## À propos de moi 🚀
 
-Salut ! Je suis un étudiant passionné en informatique, spécialisé dans la programmation et la sécurité informatique. Mon expertise s'étend du développement logiciel à l'administration système, en passant par la sécurité et la gestion de bases de données.
+🫡 Salut ! Je suis un étudiant passionné en informatique, spécialisé dans la programmation et la sécurité informatique. Mon expertise s'étend du développement logiciel à l'administration système, en passant par la sécurité et la gestion de bases de données.
 
 ## 🛠️ Compétences techniques
 
@@ -54,16 +54,24 @@ Salut ! Je suis un étudiant passionné en informatique, spécialisé dans la pr
   </p>
 </details>
 
-## Objectifs 🎯
+## 🎯 Objectifs
 
-Mon objectif est de continuer à approfondir mes compétences en informatique en :
-- 🔍 Explorant de nouvelles technologies
-- 🤝 Contribuant à des projets open source
-- 📚 Partageant mes connaissances avec la communauté
-- 💼 Recherchant des opportunités professionnelles stimulantes
+- 🔍 Explorer de nouvelles technologies et frameworks
+- 🤝 Contribuer à des projets open source innovants
+- 📚 Partager mes connaissances à travers des articles de blog et des tutoriels
+- 💼 Développer mon réseau professionnel dans le domaine de l'informatique
 
-## Projets 📂
 
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=votre_username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=votre_username&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre_username&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 
 ## Contact 📫
