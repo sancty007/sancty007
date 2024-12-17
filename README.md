@@ -83,4 +83,4 @@
 
 ---
 
-### Merci de visiter mon profil ! N'hésitez pas à me contacter pour toute collaboration ou opportunité. 😊
+### Merci de visiter mon profil ! N'hésitez pas à me contacter pour toute collaboration ou opportunité.😉
