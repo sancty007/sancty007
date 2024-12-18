@@ -1,8 +1,6 @@
 ## **Sanctifier Yaw-Mensah** <img src="https://cdn-icons-png.flaticon.com/128/158/158420.png" width="40" align="center" alt="Profile Icon">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sancty&color=0e75b6&style=flat)
-https://komarev.com/ghpvc/?username=sancty
-
+![Profile Views](https://komarev.com/ghpvc/?username=sancty&color=0e75b6&style=flat&exclude_ip=true)
 
 
 ## À propos de moi 🚀
