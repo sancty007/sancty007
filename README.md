@@ -5,7 +5,7 @@
 
 ## À propos de moi 🚀
 
-🫡 Salut ! Je suis un étudiant passionné en informatique, spécialisé dans la programmation et la sécurité informatique. Mon expertise s'étend du développement logiciel à l'administration système, en passant par la sécurité et la gestion de bases de données.
+👋🏾 Salut ! Je suis un étudiant passionné en informatique, spécialisé dans la programmation et la sécurité informatique. Mon expertise s'étend du développement logiciel à l'administration système, en passant par la sécurité et la gestion de bases de données.
 
 ## 🛠️ Compétences techniques
 
