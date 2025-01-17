@@ -82,6 +82,7 @@
   <a href="https://github.com/sancty007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/018beec1-60d3-4470-b8f4-14f7c33c2029.svg)](https://wakatime.com/@018beec1-60d3-4470-b8f4-14f7c33c2029)
 ---
 
 ### Merci de visiter mon profil ! 
