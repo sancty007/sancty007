@@ -63,9 +63,9 @@
 - 💼 Développer mon réseau professionnel dans le domaine de l'informatique
 
 ## 📖Certifications 
-Cours complet maîtriser ##Figma, web design et Design UI / UX 2025 | https://www.udemy.com/certificate/UC-e6108141-51f9-4af0-9526-d29c0beacbc2/   
- Responsive Web Design  https://www.freecodecamp.org/certification/sanctifier/responsive-web-design
- JavaScript Algorithms and Data Structures https://www.freecodecamp.org/certification/sanctifier/javascript-algorithms-and-data-structures-v8
+- Cours complet maîtriser ##Figma, web design et Design UI / UX 2025 | https://www.udemy.com/certificate/UC-e6108141-51f9-4af0-9526-d29c0beacbc2/   
+- Responsive Web Design  https://www.freecodecamp.org/certification/sanctifier/responsive-web-design
+- JavaScript Algorithms and Data Structures https://www.freecodecamp.org/certification/sanctifier/javascript-algorithms-and-data-structures-v8
 
 
 
