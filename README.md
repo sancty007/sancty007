@@ -62,6 +62,12 @@
 - 📚 Partager mes connaissances à travers des articles de blog et des tutoriels
 - 💼 Développer mon réseau professionnel dans le domaine de l'informatique
 
+## 📖Certifications 
+https://www.udemy.com/certificate/UC-e6108141-51f9-4af0-9526-d29c0beacbc2/   | Cours complet maîtriser ##Figma, web design et Design UI / UX 2025 | ##udemy
+https://www.freecodecamp.org/certification/sanctifier/responsive-web-design  | Responsive Web Design | ##freecodecamp
+https://www.freecodecamp.org/certification/sanctifier/javascript-algorithms-and-data-structures-v8 | JavaScript Algorithms and Data Structures | ##freecodecamp
+
+
 
 ## 📊 Statistiques GitHub
 
