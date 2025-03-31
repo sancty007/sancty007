@@ -1,8 +1,3 @@
-## **Sanctifier Yaw-Mensah** <img src="https://cdn-icons-png.flaticon.com/128/158/158420.png" width="40" align="center" alt="Profile Icon">
-
-![Visitor Count](https://profile-counter.glitch.me/sancty/count.svg)
-<!-- Note: Ce compteur inclut potentiellement mes propres visites -->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sanctifier%20Yaw-Mensah&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header" />
   
