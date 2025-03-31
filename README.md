@@ -71,17 +71,6 @@
   </p>
 </details>
 
-## 🚀 Projets en vedette
-
-<div align="center">
-  <a href="https://github.com/sancty007/projet-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sancty007&repo=projet-1&theme=radical" alt="Projet 1" />
-  </a>
-  <a href="https://github.com/sancty007/projet-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sancty007&repo=projet-2&theme=radical" alt="Projet 2" />
-  </a>
-</div>
-
 ## 🎯 Objectifs
 
 <table>
