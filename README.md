@@ -1,6 +1,6 @@
 <div align="center">
   
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sanctifier%20Yaw-Mensah&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header" />
   <h3>💻 Développeur & Spécialiste en Sécurité Informatique 🔐</h3>
   
   [![Visitor Count](https://profile-counter.glitch.me/sancty/count.svg)](https://github.com/sancty007)
