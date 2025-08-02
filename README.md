@@ -93,6 +93,11 @@
         <a href="https://www.udemy.com/certificate/UC-e6108141-51f9-4af0-9526-d29c0beacbc2/">Voir le certificat</a>
       </td>
       <td align="center">
+        <img width="70" src="https://img.icons8.com/color/344/udemy.png" alt="Udemy"/><br />
+        <b>TypeScript sur Udemy</b><br />
+        <a href="https://www.udemy.com/certificate/UC-ee6bc228-d313-4980-a296-85847ee1d882/">Voir le certificat</a>
+      </td>
+      <td align="center">
         <img width="70" src="https://img.icons8.com/windows/344/free-code-camp.png" alt="FreeCodeCamp"/><br />
         <b>Responsive Web Design</b><br />
         <a href="https://www.freecodecamp.org/certification/sanctifier/responsive-web-design">Voir le certificat</a>
@@ -133,8 +138,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/sanctifier-yaw-mensah-63558b242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/sancty007"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:votre-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:sanctifieryawmensah55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
+
 
 ---
 
