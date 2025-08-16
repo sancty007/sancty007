@@ -148,6 +148,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer" />
   
   ### Merci de visiter mon profil ! 
-  <p>N'hésitez pas à me contacter pour toute collaboration ou opportunité. 👌</p>
+  <p>N'hésitez pas à me contacter pour toute collaboration ou opportunité. 😊</p>
 </div>
 
