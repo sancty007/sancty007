@@ -1,153 +1,288 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sanctifier%20Yaw-Mensah&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header" />
-  <h3>💻 Développeur & Spécialiste en Sécurité Informatique 🔐</h3>
-  
-  [![Visitor Count](https://profile-counter.glitch.me/sancty/count.svg)](https://github.com/sancty007)
-  
-  <p>
-    <a href="https://www.linkedin.com/in/sanctifier-yaw-mensah-63558b242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/sancty007"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="mailto:sanctifieryawmensah55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Sanctifier%20Yaw-Mensah&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Développeur%20%26%20Spécialiste%20en%20Sécurité%20Informatique&descAlignY=55&descSize=20" alt="header" />
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=100&lines=💻+Développeur+Full-Stack;🔐+Expert+en+Sécurité+Informatique;🚀+Passionné+d'Innovation" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sancty007&style=for-the-badge&color=667eea" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sancty007?style=for-the-badge&color=667eea" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sancty007?style=for-the-badge&color=667eea" alt="Stars" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sanctifier-yaw-mensah-63558b242/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/sancty007">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub" />
+  </a>
+  <a href="mailto:sanctifieryawmensah55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
+  </a>
+  <a href="https://sancty007.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio" />
+  </a>
+</div>
+
+---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> À propos de moi
 
-> 👨‍💻 Passionné par le développement web, j'allie expertise en frontend et backend avec la maîtrise des outils de versioning et de déploiement. Je conçois des solutions innovantes en utilisant React, Django, Spring Boot et Docker.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Compétences techniques
+\`\`\`yaml
+name: Sanctifier Yaw-Mensah
+located_in: Ghana
+current_job: Développeur Full-Stack
+education: 
+  - "Licence en Informatique"
+  - "Spécialisation Sécurité Informatique"
 
-<details open>
-  <summary><b>🖥️ Langages de programmation</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  </p>
-</details>
+fields_of_interests:
+  - "Développement Web"
+  - "Sécurité Informatique"
+  - "Intelligence Artificielle"
+  - "DevOps"
+  
+currently_learning: 
+  - "TypeScript"
+  - "Next.js"
+  - "Express.js"
+  - "Docker & Kubernetes"
 
-<details open>
-  <summary><b>🗄️ Bases de données</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  </p>
-</details>
+2024_goals:
+  - "Contribuer à plus de projets Open Source"
+  - "Créer des applications innovantes"
+  - "Partager mes connaissances"
 
-<details open>
-  <summary><b>🌐 Développement Web</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  </p>
-</details>
+hobbies: ["Coding", "Reading", "Gaming", "Music"]
+\`\`\`
 
-<details open>
-  <summary><b>🛠️ Outils et systèmes</b></summary>
-  <br/>
-  <p align="left">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-    <img src="https://img.shields.io/badge/PuTTY-007ACC?style=for-the-badge&logo=putty&logoColor=white" alt="PuTTY" />
-  </p>
-</details>
+---
 
-## 🎯 Objectifs
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Stack Technologique
 
-<table>
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
-    </td>
-    <td>
-      <ul>
-        <li>🔍 Explorer de nouvelles technologies et frameworks</li>
-        <li>🤝 Contribuer à des projets open source innovants</li>
-        <li>📚 Partager mes connaissances à travers des articles de blog et des tutoriels</li>
-        <li>💼 Développer mon réseau professionnel dans le domaine de l'informatique</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## 📖 Certifications
+### 🖥️ Langages de Programmation
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,php" />
+</p>
+
+### 🌐 Développement Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma" />
+</p>
+
+### ⚙️ Développement Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,php,laravel" />
+</p>
+
+### 🗄️ Bases de Données & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,supabase" />
+</p>
+
+### 🛠️ Outils & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,nginx" />
+</p>
+
+</div>
+
+---
+
+## 🏆 Certifications & Formations
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img width="70" src="https://img.icons8.com/color/344/udemy.png" alt="Udemy"/><br />
-        <b>Maîtriser Figma, web design et Design UI/UX 2025</b><br />
-        <a href="https://www.udemy.com/certificate/UC-e6108141-51f9-4af0-9526-d29c0beacbc2/">Voir le certificat</a>
+      <th>🎓 Certification</th>
+      <th>🏢 Organisme</th>
+      <th>📅 Date</th>
+      <th>🔗 Lien</th>
+    </tr>
+    <tr>
+      <td><img width="20" src="https://img.icons8.com/color/48/figma--v1.png"/> Maîtriser Figma & UI/UX Design 2025</td>
+      <td><img width="20" src="https://img.icons8.com/color/48/udemy.png"/> Udemy</td>
+      <td>2024</td>
+      <td><a href="https://www.udemy.com/certificate/UC-e6108141-51f9-4af0-9526-d29c0beacbc2/">🏆 Certificat</a></td>
+    </tr>
+    <tr>
+      <td><img width="20" src="https://img.icons8.com/color/48/typescript.png"/> TypeScript Masterclass</td>
+      <td><img width="20" src="https://img.icons8.com/color/48/udemy.png"/> Udemy</td>
+      <td>2024</td>
+      <td><a href="https://www.udemy.com/certificate/UC-ee6bc228-d313-4980-a296-85847ee1d882/">🏆 Certificat</a></td>
+    </tr>
+    <tr>
+      <td><img width="20" src="https://img.icons8.com/color/48/html-5--v1.png"/> Responsive Web Design</td>
+      <td><img width="20" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-color-tal-revivo.png"/> FreeCodeCamp</td>
+      <td>2023</td>
+      <td><a href="https://www.freecodecamp.org/certification/sanctifier/responsive-web-design">🏆 Certificat</a></td>
+    </tr>
+    <tr>
+      <td><img width="20" src="https://img.icons8.com/color/48/javascript--v1.png"/> JavaScript Algorithms & Data Structures</td>
+      <td><img width="20" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-color-tal-revivo.png"/> FreeCodeCamp</td>
+      <td>2023</td>
+      <td><a href="https://www.freecodecamp.org/certification/sanctifier/javascript-algorithms-and-data-structures-v8">🏆 Certificat</a></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sancty007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=667eea&icon_color=667eea&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sancty007&theme=tokyonight&hide_border=true&stroke=0000&background=0d1117&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sancty007&layout=compact&theme=tokyonight&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sancty007&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=c9d1d9" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sancty007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🚀 Projets Récents
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏢 EntreprenApp</h3>
+        <div align="center">  
+          <a href="https://github.com/sancty007/entreprenapp" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sancty007&repo=entreprenapp&theme=tokyonight&hide_border=true&title_color=667eea&icon_color=667eea&text_color=c9d1d9&bg_color=0d1117" alt="EntreprenApp" />
+          </a>
+        </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        </p>
       </td>
-      <td align="center">
-        <img width="70" src="https://img.icons8.com/color/344/udemy.png" alt="Udemy"/><br />
-        <b>TypeScript sur Udemy</b><br />
-        <a href="https://www.udemy.com/certificate/UC-ee6bc228-d313-4980-a296-85847ee1d882/">Voir le certificat</a>
-      </td>
-      <td align="center">
-        <img width="70" src="https://img.icons8.com/windows/344/free-code-camp.png" alt="FreeCodeCamp"/><br />
-        <b>Responsive Web Design</b><br />
-        <a href="https://www.freecodecamp.org/certification/sanctifier/responsive-web-design">Voir le certificat</a>
-      </td>
-      <td align="center">
-        <img width="70" src="https://img.icons8.com/windows/344/free-code-camp.png" alt="FreeCodeCamp"/><br />
-        <b>JavaScript Algorithms and Data Structures</b><br />
-        <a href="https://www.freecodecamp.org/certification/sanctifier/javascript-algorithms-and-data-structures-v8">Voir le certificat</a>
+      <td width="50%">
+        <h3 align="center">🔐 Security Tools</h3>
+        <div align="center">
+          <a href="https://github.com/sancty007/security-tools" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sancty007&repo=security-tools&theme=tokyonight&hide_border=true&title_color=667eea&icon_color=667eea&text_color=c9d1d9&bg_color=0d1117" alt="Security Tools" />
+          </a>
+        </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        </p>
       </td>
     </tr>
   </table>
 </div>
 
-## 📊 Statistiques GitHub
+---
+
+## 🎯 Objectifs 2024
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sancty007&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sancty007&theme=black-ice&hide_border=true&stroke=0000&background=0d1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="GitHub Streak" height="165" />
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80">
+        <h4>🔍 Innovation</h4>
+        <p>Explorer les nouvelles technologies émergentes</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80">
+        <h4>🤝 Collaboration</h4>
+        <p>Contribuer à des projets open source</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80">
+        <h4>📚 Partage</h4>
+        <p>Créer du contenu éducatif</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/l1J9FiGxR61OcF2mI/giphy.gif" width="80">
+        <h4>💼 Réseau</h4>
+        <p>Développer mon réseau professionnel</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sancty007&bg_color=0d1117&color=667eea&line=667eea&point=c9d1d9&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🌟 Fun Facts
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Quote" />
+</div>
+
+<details>
+<summary>🎮 Quelques faits amusants sur moi</summary>
+<br>
+
+- 🌙 Je code mieux la nuit
+- ☕ Je ne peux pas commencer ma journée sans café
+- 🎵 J'écoute de la musique lofi en codant
+- 🐧 J'utilise Linux comme système principal
+- 🎯 Mon IDE préféré est VS Code avec le thème Tokyo Night
+- 🚀 Je rêve de contribuer à des projets spatiaux
+- 📚 J'adore lire des articles sur les nouvelles technologies
+- 🎮 Je joue aux jeux vidéo pour me détendre
+
+</details>
+
+---
+
+## 📞 Contactez-moi
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Phone" width="25" height="25" />
+  <strong>Prêt à collaborer ? Contactons-nous !</strong>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sancty007&layout=compact&theme=radical&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/sanctifier-yaw-mensah-63558b242/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connectons--nous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sanctifieryawmensah55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Écrivez--moi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/sancty007">
+    <img src="https://img.shields.io/badge/GitHub-Suivez--moi-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sancty007&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 🔭 Actuellement...
-
-- 🌱 J'apprends **TypeScrip** , **Nextjs** ,**ExpresJs** 
-- 🔭 Je travaille sur **www.giveats.com**
-- 👯 Je cherche à collaborer sur **des projets open source**
-- 💬 Posez-moi des questions sur **Python, Sécurité informatique, Développement Web**
-
-## 📫 Contact
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sanctifier-yaw-mensah-63558b242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/sancty007"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:sanctifieryawmensah55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" alt="footer" />
   
-  ### Merci de visiter mon profil ! 
-  <p>N'hésitez pas à me contacter pour toute collaboration ou opportunité. 😊</p>
+  <h3>💫 Merci de visiter mon profil !</h3>
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+    N'hésitez pas à me contacter pour toute collaboration ou opportunité !
+  </p>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Développons+ensemble+l'avenir+numérique+!;Let's+build+the+digital+future+together+!" alt="Footer Typing" />
 </div>
-
