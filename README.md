@@ -424,9 +424,8 @@ motto: "Code with passion, secure with precision! 🔥"
         <h4>🌙 Habitudes de Code</h4>
         <ul align="left">
           <li>🦉 Développeur nocturne (22h-4h)</li>
-          <li>☕ 5+ cafés par jour minimum</li>
-          <li>🎵 Lofi hip-hop en background</li>
-          <li>🐧 Linux enthusiast depuis 5 ans</li>
+          <li>☕ cafés par jour minimum</li>
+          <li>🐧 Linux enthusiast </li>
           <li>⌨️ Vim user (fight me!)</li>
         </ul>
       </td>
@@ -444,7 +443,6 @@ motto: "Code with passion, secure with precision! 🔥"
     <tr>
       <td align="center" colspan="2">
         <h4>🎮 Quand je ne code pas...</h4>
-        <p>🎮 Gaming (FPS & Strategy) | 📚 Tech blogs & documentation | 🎵 Music production | 🏃‍♂️ Running</p>
       </td>
     </tr>
   </table>
