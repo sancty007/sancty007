@@ -123,23 +123,12 @@
 name: Sanctifier Yaw-Mensah
 nationality: Ghana 🇬🇭
 current_job: Développeur Full-Stack
-education: 
-  - "🎓 Licence en Informatique"
-  - "📚 Formation Continue en DevOps"
-
 fields_of_interests:
   - "🌐 Développement Web Full-Stack"
   - "🔒 Cybersécurité & Ethical Hacking"
   - "🤖 Intelligence Artificielle & ML"
   - "☁️ Cloud Computing & DevOps"
   - "📱 Développement Mobile"
-  
-currently_learning: 
-  - "⚡ TypeScript & Advanced Patterns"
-  - "🚀 Next.js 14 & Server Components"
-  - "🔧 Express.js & Microservices"
-  - "🐳 Docker & Kubernetes"
-  - "☁️ AWS & Azure Cloud Services"
 
 2025_goals:
   - "🌟 Contribuer à 50+ projets Open Source"
@@ -148,7 +137,6 @@ currently_learning:
   - "🌍 Développer mon réseau international"
   - "🏆 Obtenir des certifications cloud avancées"
 
-hobbies: ["💻 Coding", "📖 Tech Reading", "🎮 Gaming", "🎵 Music Production"]
 motto: "Code with passion, secure with precision! 🔥"
 ```
 
