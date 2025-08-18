@@ -198,7 +198,7 @@ motto: "Code with passion, secure with precision! 🔥"
         <br/><small>Design System, Prototypage, User Research</small>
       </td>
       <td><img width="25" src="https://img.icons8.com/color/48/udemy.png"/> Udemy</td>
-      <td>2024</td>
+      <td>2025</td>
       <td><img src="https://img.shields.io/badge/✅-Certifié-4ECDC4?style=flat-square" /></td>
       <td><a href="https://www.udemy.com/certificate/UC-e6108141-51f9-4af0-9526-d29c0beacbc2/">🏆 Voir</a></td>
     </tr>
@@ -209,7 +209,7 @@ motto: "Code with passion, secure with precision! 🔥"
         <br/><small>Advanced Types, Generics, Decorators</small>
       </td>
       <td><img width="25" src="https://img.icons8.com/color/48/udemy.png"/> Udemy</td>
-      <td>2024</td>
+      <td>2025</td>
       <td><img src="https://img.shields.io/badge/✅-Certifié-4ECDC4?style=flat-square" /></td>
       <td><a href="https://www.udemy.com/certificate/UC-ee6bc228-d313-4980-a296-85847ee1d882/">🏆 Voir</a></td>
     </tr>
@@ -220,7 +220,7 @@ motto: "Code with passion, secure with precision! 🔥"
         <br/><small>HTML5, CSS3, Flexbox, Grid</small>
       </td>
       <td><img width="25" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-color-tal-revivo.png"/> FreeCodeCamp</td>
-      <td>2023</td>
+      <td>2025</td>
       <td><img src="https://img.shields.io/badge/✅-Certifié-4ECDC4?style=flat-square" /></td>
       <td><a href="https://www.freecodecamp.org/certification/sanctifier/responsive-web-design">🏆 Voir</a></td>
     </tr>
@@ -231,7 +231,7 @@ motto: "Code with passion, secure with precision! 🔥"
         <br/><small>ES6+, Algorithms, Problem Solving</small>
       </td>
       <td><img width="25" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-freecodecamp-a-non-profit-organization-that-consists-of-an-interactive-learning-web-platform-logo-color-tal-revivo.png"/> FreeCodeCamp</td>
-      <td>2023</td>
+      <td>2025</td>
       <td><img src="https://img.shields.io/badge/✅-Certifié-4ECDC4?style=flat-square" /></td>
       <td><a href="https://www.freecodecamp.org/certification/sanctifier/javascript-algorithms-and-data-structures-v8">🏆 Voir</a></td>
     </tr>
