@@ -5,7 +5,7 @@
 
 <!-- Animation de frappe sophistiquée -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Architecte+de+Solutions+Digitales;🔐+Spécialiste+Cybersécurité;🚀+Innovateur+Tech+%26+Créateur;⚡+Passionné+d'Excellence+Technique" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Architecte+de+Solutions+Digitales;⚡+Passionné+d'Excellence+Technique" alt="Typing Animation" />
 </div>
 
 <!-- Badges dynamiques avec style premium -->
@@ -118,14 +118,13 @@
 
 <img align="right" alt="Coding Animation" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-\`\`\`yaml
+```yaml
 # 🚀 Configuration Développeur
 name: Sanctifier Yaw-Mensah
-located_in: Ghana 🇬🇭
-current_job: Développeur Full-Stack & Expert Sécurité
+nationality: Ghana 🇬🇭
+current_job: Développeur Full-Stack
 education: 
   - "🎓 Licence en Informatique"
-  - "🔐 Spécialisation Sécurité Informatique"
   - "📚 Formation Continue en DevOps"
 
 fields_of_interests:
@@ -151,7 +150,7 @@ currently_learning:
 
 hobbies: ["💻 Coding", "📖 Tech Reading", "🎮 Gaming", "🎵 Music Production"]
 motto: "Code with passion, secure with precision! 🔥"
-\`\`\`
+```
 
 ---
 
