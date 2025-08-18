@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header avec animation sophistiquée -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FFEAA7&height=300&section=header&text=Sanctifier%20Yaw-Mensah&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=🚀%20Développeur%20Full-Stack%20%26%20Expert%20Sécurité%20🔐&descAlignY=60&descSize=22" alt="header" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sanctifier%20Yaw-Mensah&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header" />
 </div>
 
 <!-- Animation de frappe sophistiquée -->
