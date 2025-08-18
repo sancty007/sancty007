@@ -24,9 +24,64 @@
   <a href="mailto:sanctifieryawmensah55@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email" />
   </a>
-  <a href="https://sancty007.github.io">
+  <a href="https://portofolio-9r65.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio" />
   </a>
+</div>
+
+---
+
+## 🌐 Mon Portfolio - Aperçu
+
+<div align="center">
+  <h3>🎨 Découvrez mon portfolio interactif</h3>
+  <p>Un aperçu de mon travail et de mes compétences en action</p>
+  
+  <a href="https://portofolio-9r65.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Visiter_le_Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Visiter Portfolio" />
+  </a>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h4>🎯 Fonctionnalités du Portfolio</h4>
+        <ul align="left">
+          <li>🎨 Design moderne et responsive</li>
+          <li>⚡ Interface interactive avec animations</li>
+          <li>📊 Visualisation des compétences techniques</li>
+          <li>📈 Statistiques GitHub intégrées</li>
+          <li>💼 Showcase de projets avec technologies</li>
+          <li>📱 Optimisé mobile et desktop</li>
+        </ul>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" alt="Portfolio Preview" />
+        <br/>
+        <em>Interface moderne avec thème sombre</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <details>
+    <summary>🖼️ Aperçu des sections du portfolio</summary>
+    <br/>
+    <table>
+      <tr>
+        <td align="center"><strong>🏠 Accueil</strong><br/>Présentation personnelle avec animation</td>
+        <td align="center"><strong>💼 Compétences</strong><br/>Stack technique organisée par catégories</td>
+        <td align="center"><strong>👨‍💻 À propos</strong><br/>Parcours et expertise détaillés</td>
+      </tr>
+      <tr>
+        <td align="center"><strong>🚀 Projets</strong><br/>Showcase avec liens GitHub et démos</td>
+        <td align="center"><strong>📊 GitHub Stats</strong><br/>Statistiques et graphiques en temps réel</td>
+        <td align="center"><strong>📞 Contact</strong><br/>Formulaire et liens sociaux</td>
+      </tr>
+    </table>
+  </details>
 </div>
 
 ---
@@ -55,17 +110,18 @@ currently_learning:
   - "Express.js"
   - "Docker & Kubernetes"
 
-2024_goals:
+2025_goals:
   - "Contribuer à plus de projets Open Source"
   - "Créer des applications innovantes"
   - "Partager mes connaissances"
+  - "Maîtriser l'écosystème cloud"
 
 hobbies: ["Coding", "Reading", "Gaming", "Music"]
 \`\`\`
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Stack Technologique
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Stack Technologique
 
 <div align="center">
 
