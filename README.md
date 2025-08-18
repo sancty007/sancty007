@@ -90,7 +90,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-\`\`\`yaml
+```yaml
 name: Sanctifier Yaw-Mensah
 located_in: Ghana
 current_job: Développeur Full-Stack
@@ -117,7 +117,7 @@ currently_learning:
   - "Maîtriser l'écosystème cloud"
 
 hobbies: ["Coding", "Reading", "Gaming", "Music"]
-\`\`\`
+```
 
 ---
 
