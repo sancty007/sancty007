@@ -492,7 +492,7 @@ motto: "Code with passion, secure with precision! 🔥"
   
   <p>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
-    <em>N'hésitez pas à me contacter pour toute collaboration, opportunité ou simplement pour échanger sur la tech !</em>
+    <em>N'hésitez pas à me contacter pour toute collaboration, opportunité ou simplement pour échanger sur la tech 😊!</em>
   </p>
   
   <img src="https://komarev.com/ghpvc/?username=sancty007&style=for-the-badge&color=FF6B6B&label=VISITEURS+INSPIRÉS" alt="Inspired Visitors" />
