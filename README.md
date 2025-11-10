@@ -148,27 +148,27 @@ motto: "Code with passion, secure with precision! 🔥"
 
 ### 🖥️ Langages de Programmation
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,php,go,rust" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,rust" />
 </p>
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap,sass,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,figma" />
 </p>
 
 ### ⚙️ Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,laravel,graphql,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql,prisma" />
 </p>
 
 ### 🗄️ Bases de Données & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,firebase,supabase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite" />
 </p>
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,terraform,nginx" />
+  <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,nginx" />
 </p>
 
 ### 🛠️ Outils & Environnement
@@ -261,89 +261,6 @@ motto: "Code with passion, secure with precision! 🔥"
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sancty007&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🚀 Projets Phares & Réalisations
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🏗️+Architectures+Scalables;🔐+Solutions+Sécurisées;⚡+Performances+Optimisées;🌐+Expériences+Utilisateur+Exceptionnelles" alt="Project Features" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🏢 EntreprenApp</h3>
-        <div align="center">  
-          <a href="https://github.com/sancty007/entreprenapp" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sancty007&repo=entreprenapp&theme=radical&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9&bg_color=0d1117" alt="EntreprenApp" />
-          </a>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        </p>
-        <p align="center"><em>Plateforme complète de gestion d'entreprise avec dashboard analytics</em></p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🔐 CyberSec Toolkit</h3>
-        <div align="center">
-          <a href="https://github.com/sancty007/cybersec-toolkit" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sancty007&repo=cybersec-toolkit&theme=radical&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9&bg_color=0d1117" alt="CyberSec Toolkit" />
-          </a>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-        </p>
-        <p align="center"><em>Suite d'outils de sécurité pour audit et pentesting</em></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🌐 DevPortal</h3>
-        <div align="center">
-          <a href="https://github.com/sancty007/devportal" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sancty007&repo=devportal&theme=radical&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9&bg_color=0d1117" alt="DevPortal" />
-          </a>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-          <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-        </p>
-        <p align="center"><em>Portail développeur avec API documentation et sandbox</em></p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🤖 AI Assistant</h3>
-        <div align="center">
-          <a href="https://github.com/sancty007/ai-assistant" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=sancty007&repo=ai-assistant&theme=radical&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9&bg_color=0d1117" alt="AI Assistant" />
-          </a>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-          <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-        </p>
-        <p align="center"><em>Assistant IA conversationnel avec NLP avancé</em></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <a href="https://github.com/sancty007?tab=repositories">
-    <img src="https://img.shields.io/badge/🔍_EXPLORER_TOUS_MES_PROJETS-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Voir tous les projets" />
-  </a>
 </div>
 
 ---
