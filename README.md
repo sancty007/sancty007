@@ -118,28 +118,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```yaml
-# 🚀 Configuration Développeur
-name: Sanctifier Yaw-Mensah
-nationality: Ghana 🇬🇭
-current_job: Développeur Full-Stack
-fields_of_interests:
-  - "🌐 Développement Web Full-Stack"
-  - "🔒 Cybersécurité & Ethical Hacking"
-  - "🤖 Intelligence Artificielle & ML"
-  - "☁️ Cloud Computing & DevOps"
-  - "📱 Développement Mobile"
-
-2025_goals:
-  - "🌟 Contribuer à 50+ projets Open Source"
-  - "🚀 Lancer 3 applications SaaS innovantes"
-  - "📚 Créer du contenu éducatif (blog, vidéos)"
-  - "🌍 Développer mon réseau international"
-  - "🏆 Obtenir des certifications cloud avancées"
-
-motto: "Code with passion, secure with precision! 🔥"
-```
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35"> Arsenal Technologique
