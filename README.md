@@ -290,43 +290,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Le%20code%20est%20de%20la%20poésie%20que%20seuls%20les%20ordinateurs%20peuvent%20comprendre.%20Écrivons%20de%20beaux%20poèmes%20!&author=Sanctifier%20Yaw-Mensah" alt="Quote" />
 </div>
 
-<details>
-<summary>🎭 <strong>Fun Facts & Secrets de Développeur</strong></summary>
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h4>🌙 Habitudes de Code</h4>
-        <ul align="left">
-          <li>🦉 Développeur nocturne (22h-4h)</li>
-          <li>☕ cafés par jour minimum</li>
-          <li>🐧 Linux enthusiast </li>
-          <li>⌨️ Vim user (fight me!)</li>
-        </ul>
-      </td>
-      <td align="center" width="50%">
-        <h4>🎯 Préférences Tech</h4>
-        <ul align="left">
-          <li>🎨 VS Code + Tokyo Night theme</li>
-          <li>🔥 TypeScript > JavaScript always</li>
-          <li>⚡ Next.js pour le frontend</li>
-          <li>🐍 Python pour l'IA/ML</li>
-          <li>🐳 Docker pour tout containeriser</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <h4>🎮 Quand je ne code pas...</h4>
-      </td>
-    </tr>
-  </table>
-</div>
-
-</details>
-
 ---
 
 ## 📞 Connectons-nous & Collaborons
