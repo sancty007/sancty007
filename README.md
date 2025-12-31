@@ -165,6 +165,17 @@
     </tr>
     <tr>
       <td>
+        <img width="25" src="https://img.icons8.com/color/48/devops.png"/> 
+        <strong>Maîtriser le DevOps – CI/CD & Cloud 2025</strong>
+        <br/><small>CI/CD, Docker, Jenkins, Cloud & Automation</small>
+      </td>
+      <td><img width="25" src="https://img.icons8.com/color/48/udemy.png"/> Udemy</td>
+      <td>2025</td>
+      <td><img src="https://img.shields.io/badge/✅-Certifié-4ECDC4?style=flat-square" /></td>
+      <td><a href="https://www.udemy.com/certificate/UC-4ac4fb00-7f09-40b6-8d51-477370606692/">🏆 Voir</a></td>
+    </tr>
+    <tr>
+      <td>
         <img width="25" src="https://img.icons8.com/color/48/figma--v1.png"/> 
         <strong>Maîtriser Figma & UI/UX Design 2025</strong>
         <br/><small>Design System, Prototypage, User Research</small>
