@@ -165,7 +165,6 @@
     </tr>
     <tr>
       <td>
-        <img width="25" src="https://img.icons8.com/color/48/devops.png"/> 
         <strong>Maîtriser le DevOps – CI/CD & Cloud 2025</strong>
         <br/><small>CI/CD, Docker, Jenkins, Cloud & Automation</small>
       </td>
