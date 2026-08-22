@@ -31,18 +31,6 @@
 
 ---
 
-## 🌟 Portfolio
-
-<p align="center">
-  Un portfolio en dark mode natif, entièrement responsive, présentant mes projets avec des démos live et des filtres par technologie.
-</p>
-
-<div align="center">
-  <a href="https://portofolio-9r65.vercel.app/">
-    <img src="https://img.shields.io/badge/EXPLORER_LE_PORTFOLIO-7AA2F7?style=flat-square&logo=vercel&logoColor=white" alt="Explorer le portfolio de Sanctifier" />
-  </a>
-</div>
-
 <details>
   <summary>🖼️ Aperçu des sections</summary>
   <br/>
