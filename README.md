@@ -85,6 +85,7 @@
 | TypeScript Masterclass | Udemy | 2025 | [Voir](https://www.udemy.com/certificate/UC-ee6bc228-d313-4980-a296-85847ee1d882/) |
 | Responsive Web Design | FreeCodeCamp | 2025 | [Voir](https://www.freecodecamp.org/certification/sanctifier/responsive-web-design) |
 | JavaScript Algorithms & Data Structures | FreeCodeCamp | 2025 | [Voir](https://www.freecodecamp.org/certification/sanctifier/javascript-algorithms-and-data-structures-v8) |
+| Writing Clean Code: 20 Code Smells & How to Avoid Them | Packt (Coursera) | 2026 | [Voir](https://www.coursera.org/account/accomplishments/records/BWGPWXN22GO0) |
 
 <div align="center">
   <sub><strong>Prochaines certifications visées :</strong> AWS Solutions Architect · Azure DevOps Engineer · Google Cloud Professional Developer</sub>
